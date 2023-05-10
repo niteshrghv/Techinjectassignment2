@@ -1,0 +1,158 @@
+[
+    {
+    "dates": {
+        "1": {
+            "ID":1078,
+            "NAME":"NITESH",
+            "PHONE":9997016578,
+            "present":"08:30",
+            "absent":"00:30",
+            "inconclusive": false,
+            "incomplete": false,
+            "inTime": "9:00 am",
+            "outTime": "6:00 pm",
+            "src":"/img1.jpg",
+            "deductions": [
+            
+                {
+                    "inTime": "9:00 am",
+                    "outTime": null,
+                    "deduction": "0"
+                },
+                
+                {
+                    "outTime": "1:00 pm",
+                    "inTime": "1:30 pm",
+                    "deduction": "0"
+                },
+            
+                {
+                    "outTime": "6:00 pm",
+                    "inTime": null,
+                    "deduction": "0"
+                }
+            ]
+        }
+    }
+},
+
+{
+    "dates": {
+        "1": {
+            "inconclusive": false,
+            "incomplete": true,
+            "inTime": "9:00 am",
+            "outTime": null,
+            "ID":1079,
+            "NAME":"SAHIL",
+            "PHONE":999898989,
+            "present":"null",
+            "absent":"null",
+            "src":"/sahil.jpeg",
+            "deductions": [
+        
+                {
+                    "inTime": "9:00 am",
+                    "outTime": null,
+                    "deduction": "0"
+                },
+                
+                {
+                    "outTime": "1:00 pm",
+                    "inTime": "1:30 pm",
+                    "deduction": "0"
+                }
+            ]
+        }
+    }
+},
+
+
+{
+    "dates": {
+        "1": {
+            "inconclusive": true,
+            "incomplete": false,
+            "inTime": "9:00 am",
+            "outTime": "6:00 pm",
+            "ID":1080,
+            "NAME":"SOUMYA",
+            "PHONE":999858589,
+            "present":"null",
+            "src":"/soumya.jpg",
+            "absent":"null",
+            
+            "deductions": [
+                
+                {
+                    "inTime": "9:00 am",
+                    "outTime": null,
+                    "deduction": "0"
+                },
+               
+                {
+                    "outTime": "1:00 pm",
+                    "inTime": null,
+                    "deduction": "0"
+                },
+                
+                {
+                    "outTime": null,
+                    "inTime": "6:00 pm",
+                    "deduction": "0"
+                },
+               
+                {
+                    "inTime": "6:00 pm",
+                    "outTime": null,
+                    "deduction": "0"
+                }
+            ]
+        }
+    }
+},
+
+{
+    "dates": {
+        "1": {
+            "inconclusive": true,
+            "incomplete": false,
+            "inTime": "9:00 am",
+            "src":"/anurag.jpg",
+            "outTime": "6:00 pm",
+            "secondintime":"6:00 pm",
+            "present":"08:30",
+            "absent":"00:30",
+            "ID":1089,
+            "NAME":"ANURAG",
+            "PHONE":858898989,
+            "deductions": [
+                
+                {
+                    "inTime": "9:00 am",
+                    "outTime": null,
+                    "deduction": "0"
+                },
+                
+                {
+                    "inTime": "1:00 pm",
+                    "outTime": "1:30 pm",
+                    "deduction": "0"
+                },
+               
+                {
+                    "outTime": "6:00 pm",
+                    "inTime": null,
+                    "deduction": "0"
+                },
+                
+                {
+                    "inTime": "6:00 pm",
+                    "outTime": null,
+                    "deduction": "0"
+                }
+            ]
+        }
+    }
+}
+]
